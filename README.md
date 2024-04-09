@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh Jaiswal.
 - 👀 I’m interested in Programming .
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on Software developer
 - 📫 How to reach me insta/ creative_sab_
 
